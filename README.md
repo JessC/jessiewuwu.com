@@ -14,3 +14,4 @@ http://www.jessiewuwu.com
 * Update my resume
 * Try a new responsive grid system
 * Check out Materials
+* Fix link styling for Contact me on Resume page
