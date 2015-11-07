@@ -1,0 +1,31 @@
+
+body {
+	font-family: Questrial, Helvetica;
+	color: #2F4F4F;
+	}
+			
+h1 {
+	font-family: Questrial, Helvetica;
+	color: #8B0000;
+	}
+
+.welcome {
+	margin: 50px 300px 50px 300px;	
+}
+
+.one {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.align-right {
+	float: right;
+	margin-top: 100px;
+}
+
+p {
+	text-align: left;
+}
+

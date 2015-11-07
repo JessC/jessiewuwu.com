@@ -1,0 +1,76 @@
+
+h1 {
+	font-family: "Questrial", Helvetica, sans-serif;
+	font-size: 35px;
+	color: pink;
+    text-align: center;
+    margin-top: 55px;
+}
+
+h3 {
+	font-family: "Questrial", Helvetica, sans-serif;
+	color: #8B0000;
+  margin-top: 60px;
+}
+
+img {
+	margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+	font-family: "Questrial", Helvetica, sans-serif;
+}
+
+.huge {
+  font-size: 200px;
+}
+
+.centerimage {
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  }
+
+#images {
+  text-align: center;
+  margin-top: 275px;
+}
+
+.rough {
+  margin-top: 175px;
+  font-size: 15px;
+}
+
+ul {
+  font-family: "Questrial", Helvetica, sans-serif;
+  color: turquoise;
+  font-size: 15px;
+}
+
+}
+a:link {
+  color: turquoise;
+}
+a:visited {
+  color:blue;
+}
+
+.entry {
+  width: 400px;
+  float: left;
+  margin: 10px;
+}
+
+figure {
+  display: block;
+  width: 402px;
+  margin: 0px;
+  text-align: center;
+  padding: 0px;
+}
+
+figure img {
+  width: 400px;
+  border: 1px solid #d6d6d6;
+}
